@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gopala Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Sorting-Visualizer**
+- 🔭 I’m currently working on **PAYTM Gateway Application Clone**
 
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gopalagks?tab=repositories](https://github.com/gopalagks?tab=repositories)
 
